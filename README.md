@@ -1,30 +1,28 @@
-📂 CSV Reader – Leitor Automático de Arquivos .csv
-Um projeto simples e eficiente em Python para automatizar a leitura de arquivos .csv em diretórios específicos. Ideal para iniciantes que desejam aprender sobre manipulação de arquivos, estrutura modular e automação com bibliotecas populares como pandas e os.
+# 🐍 Leitor Automático de CSVs! 📊
 
-🚀 Funcionalidades
-🔍 Varredura automática de diretórios em busca de arquivos .csv
+Um projeto prático e didático em **Python**, ideal para quem está começando e quer aprender como automatizar a leitura de arquivos `.csv`, navegar por diretórios e manipular dados com eficiência usando `pandas` e `os`.
 
-📑 Leitura e organização dos dados usando pandas
+---
 
-🛡️ Prevenção de loops desnecessários na execução
+## ✨ Objetivo
 
-⚙️ Estrutura modular para facilitar manutenção e reuso
+Desenvolver um script que percorre pastas específicas em busca de arquivos `.csv`, lê os dados com o `pandas` e organiza as informações de forma estruturada, evitando loops desnecessários e permitindo fácil expansão.
 
-🧰 Tecnologias Utilizadas
-Python 3.x
+---
 
-pandas
+## 🚀 Funcionalidades
 
-Módulo os da biblioteca padrão do Python
+- 📁 **Leitura automática** de arquivos `.csv` em diretórios definidos  
+- 🧹 **Evita reprocessamentos** com verificação de arquivos já lidos  
+- 📊 **Organização dos dados** em estruturas limpas com `pandas`  
+- 🧱 **Código modular e comentado**, ideal para aprendizado e personalização  
 
-🧠 Aprendizados
-Este projeto é ideal para praticar:
+---
 
-Manipulação de arquivos em Python
+## 🛠️ Tecnologias
 
-Uso de bibliotecas para leitura e análise de dados
+- Python 3  
+- [pandas](https://pandas.pydata.org/)  
+- Módulo `os` (biblioteca padrão do Python)
 
-Organização de scripts em uma estrutura clara e modular
-
-Automatização de tarefas repetitivas
-
+---
