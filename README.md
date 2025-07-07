@@ -4,7 +4,7 @@ Um projeto prático e didático em **Python**, ideal para quem está começando 
 
 ---
 
-## ✨ Objetivo
+## ✨ Objetivo.
 
 Desenvolver um script que percorre pastas específicas em busca de arquivos `.csv`, lê os dados com o `pandas` e organiza as informações de forma estruturada, evitando loops desnecessários e permitindo fácil expansão.
 
